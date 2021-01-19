@@ -1,1 +1,3 @@
 contraseñas.txt
+pycache
+*.pyc
